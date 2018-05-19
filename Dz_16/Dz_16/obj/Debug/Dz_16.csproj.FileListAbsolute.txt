@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Dz_16\Dz_16\bin\Debug\Dz_16.exe.config
+C:\Users\student\source\repos\Dz_16\Dz_16\bin\Debug\Dz_16.exe
+C:\Users\student\source\repos\Dz_16\Dz_16\bin\Debug\Dz_16.pdb
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.Form1.resources
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.Form2.resources
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.Properties.Resources.resources
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.exe
+C:\Users\student\source\repos\Dz_16\Dz_16\obj\Debug\Dz_16.pdb

@@ -1,0 +1,14 @@
+C:\Users\George\source\repos\Dz_10\Dz_10\bin\Debug\Dz_10.exe
+C:\Users\George\source\repos\Dz_10\Dz_10\bin\Debug\Dz_10.pdb
+C:\Users\George\source\repos\Dz_10\Dz_10\obj\Debug\Dz_10.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\Dz_10\Dz_10\obj\Debug\Dz_10.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Dz_10\Dz_10\obj\Debug\Dz_10.exe
+C:\Users\George\source\repos\Dz_10\Dz_10\obj\Debug\Dz_10.pdb
+C:\Users\student\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.exe
+C:\Users\student\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.pdb
+C:\Users\George\Desktop\Dz_10\Dz_10\bin\Debug\Dz_10.exe
+C:\Users\George\Desktop\Dz_10\Dz_10\bin\Debug\Dz_10.pdb
+C:\Users\George\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.exe
+C:\Users\George\Desktop\Dz_10\Dz_10\obj\Debug\Dz_10.pdb

@@ -1,0 +1,23 @@
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.exe
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.pdb
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.exe
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.pdb
+C:\Users\George\source\repos\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csprojResolveAssemblyReference.cache
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.exe
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.pdb
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csproj.CoreCompileInputs.cache
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.exe
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.pdb
+D:\Ераносян СРПО-17-2\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.exe
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.pdb
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.exe
+C:\Users\George\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.pdb
+C:\Users\student\Desktop\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.exe
+C:\Users\student\Desktop\AirPlaneTrainer\AirPlaneTrainer\bin\Debug\AirPlaneTrainer.pdb
+C:\Users\student\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.exe
+C:\Users\student\Desktop\AirPlaneTrainer\AirPlaneTrainer\obj\Debug\AirPlaneTrainer.pdb

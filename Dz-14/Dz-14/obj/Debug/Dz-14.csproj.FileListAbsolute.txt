@@ -1,0 +1,10 @@
+c:\users\george\source\repos\Dz-14\Dz-14\bin\Debug\Dz-14.exe.config
+c:\users\george\source\repos\Dz-14\Dz-14\bin\Debug\Dz-14.exe
+c:\users\george\source\repos\Dz-14\Dz-14\bin\Debug\Dz-14.pdb
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz-14.csprojResolveAssemblyReference.cache
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz_14.Form1.resources
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz_14.Properties.Resources.resources
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz-14.csproj.GenerateResource.cache
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz-14.csproj.CoreCompileInputs.cache
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz-14.exe
+c:\users\george\source\repos\Dz-14\Dz-14\obj\Debug\Dz-14.pdb

@@ -1,0 +1,11 @@
+C:\Users\George\source\repos\AccountingTS\AccountingTS\bin\Debug\AccountingTS.exe
+C:\Users\George\source\repos\AccountingTS\AccountingTS\bin\Debug\AccountingTS.pdb
+C:\Users\George\source\repos\AccountingTS\AccountingTS\obj\Debug\AccountingTS.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\AccountingTS\AccountingTS\obj\Debug\AccountingTS.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\AccountingTS\AccountingTS\obj\Debug\AccountingTS.exe
+C:\Users\George\source\repos\AccountingTS\AccountingTS\obj\Debug\AccountingTS.pdb
+C:\Users\student\Downloads\AccountingTS\AccountingTS\obj\Debug\AccountingTS.exe
+C:\Users\student\Downloads\AccountingTS\AccountingTS\obj\Debug\AccountingTS.pdb
+C:\Users\student\Downloads\AccountingTS\AccountingTS\bin\Debug\AccountingTS.exe
+C:\Users\student\Downloads\AccountingTS\AccountingTS\bin\Debug\AccountingTS.pdb
+C:\Users\student\Downloads\AccountingTS\AccountingTS\obj\Debug\AccountingTS.csprojResolveAssemblyReference.cache

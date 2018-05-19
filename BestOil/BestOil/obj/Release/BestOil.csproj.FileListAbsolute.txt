@@ -1,0 +1,12 @@
+C:\Users\George\source\repos\BestOil\BestOil\bin\Release\BestOil.exe
+C:\Users\George\source\repos\BestOil\BestOil\bin\Release\BestOil.pdb
+C:\Users\George\source\repos\BestOil\BestOil\bin\Release\uk-UA\BestOil.resources.dll
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.BestOilForm.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.Properties.Resources.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.BestOilForm.uk-UA.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.csproj.GenerateResource.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\uk-UA\BestOil.resources.dll
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.exe
+C:\Users\George\source\repos\BestOil\BestOil\obj\Release\BestOil.pdb

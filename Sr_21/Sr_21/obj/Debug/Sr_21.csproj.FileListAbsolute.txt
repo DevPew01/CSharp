@@ -1,0 +1,7 @@
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\bin\Debug\Sr_21.exe.config
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\bin\Debug\Sr_21.exe
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\bin\Debug\Sr_21.pdb
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\obj\Debug\Sr_21.csprojResolveAssemblyReference.cache
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\obj\Debug\Sr_21.csproj.CoreCompileInputs.cache
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\obj\Debug\Sr_21.exe
+D:\Ераносян СРПО-17-2\Sr_21\Sr_21\obj\Debug\Sr_21.pdb

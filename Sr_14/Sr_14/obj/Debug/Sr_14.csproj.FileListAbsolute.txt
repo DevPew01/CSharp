@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Sr_14\Sr_14\bin\Debug\Sr_14.exe.config
+c:\users\student\source\repos\Sr_14\Sr_14\bin\Debug\Sr_14.exe
+c:\users\student\source\repos\Sr_14\Sr_14\bin\Debug\Sr_14.pdb
+c:\users\student\source\repos\Sr_14\Sr_14\obj\Debug\Sr_14.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\Sr_14\Sr_14\obj\Debug\Sr_14.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Sr_14\Sr_14\obj\Debug\Sr_14.exe
+c:\users\student\source\repos\Sr_14\Sr_14\obj\Debug\Sr_14.pdb

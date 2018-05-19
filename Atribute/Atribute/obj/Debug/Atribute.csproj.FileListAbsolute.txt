@@ -1,0 +1,5 @@
+C:\Users\George\source\repos\Atribute\Atribute\bin\Debug\Atribute.exe
+C:\Users\George\source\repos\Atribute\Atribute\bin\Debug\Atribute.pdb
+C:\Users\George\source\repos\Atribute\Atribute\obj\Debug\Atribute.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Atribute\Atribute\obj\Debug\Atribute.exe
+C:\Users\George\source\repos\Atribute\Atribute\obj\Debug\Atribute.pdb

@@ -1,0 +1,7 @@
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\bin\Debug\XMLEssentials.exe.config
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\bin\Debug\XMLEssentials.exe
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\bin\Debug\XMLEssentials.pdb
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\obj\Debug\XMLEssentials.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\obj\Debug\XMLEssentials.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\obj\Debug\XMLEssentials.exe
+c:\users\student\source\repos\XMLEssentials\XMLEssentials\obj\Debug\XMLEssentials.pdb

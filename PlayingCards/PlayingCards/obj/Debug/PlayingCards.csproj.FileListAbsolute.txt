@@ -1,0 +1,6 @@
+c:\users\george\source\repos\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe
+c:\users\george\source\repos\PlayingCards\PlayingCards\bin\Debug\PlayingCards.pdb
+c:\users\george\source\repos\PlayingCards\PlayingCards\obj\Debug\PlayingCards.csproj.CoreCompileInputs.cache
+c:\users\george\source\repos\PlayingCards\PlayingCards\obj\Debug\PlayingCards.exe
+c:\users\george\source\repos\PlayingCards\PlayingCards\obj\Debug\PlayingCards.pdb
+C:\Users\George\source\repos\PlayingCards\PlayingCards\obj\Debug\PlayingCards.csprojResolveAssemblyReference.cache

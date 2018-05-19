@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Xml_2\Xml_2\bin\Debug\Xml_2.exe.config
+c:\users\student\source\repos\Xml_2\Xml_2\bin\Debug\Xml_2.exe
+c:\users\student\source\repos\Xml_2\Xml_2\bin\Debug\Xml_2.pdb
+c:\users\student\source\repos\Xml_2\Xml_2\obj\Debug\Xml_2.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\Xml_2\Xml_2\obj\Debug\Xml_2.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Xml_2\Xml_2\obj\Debug\Xml_2.exe
+c:\users\student\source\repos\Xml_2\Xml_2\obj\Debug\Xml_2.pdb

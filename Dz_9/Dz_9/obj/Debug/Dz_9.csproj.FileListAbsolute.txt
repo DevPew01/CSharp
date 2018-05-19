@@ -1,0 +1,6 @@
+C:\Users\George\source\repos\Dz_9\Dz_9\bin\Debug\Dz_9.exe
+C:\Users\George\source\repos\Dz_9\Dz_9\bin\Debug\Dz_9.pdb
+C:\Users\George\source\repos\Dz_9\Dz_9\obj\Debug\Dz_9.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\Dz_9\Dz_9\obj\Debug\Dz_9.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Dz_9\Dz_9\obj\Debug\Dz_9.exe
+C:\Users\George\source\repos\Dz_9\Dz_9\obj\Debug\Dz_9.pdb

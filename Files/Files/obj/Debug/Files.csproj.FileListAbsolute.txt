@@ -1,0 +1,14 @@
+D:\Ераносян СРПО-17-2\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\Ераносян СРПО-17-2\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Ераносян СРПО-17-2\Files\Files\bin\Debug\Files.exe.config
+D:\Ераносян СРПО-17-2\Files\Files\bin\Debug\Files.exe
+D:\Ераносян СРПО-17-2\Files\Files\bin\Debug\Files.pdb
+D:\Ераносян СРПО-17-2\Files\Files\obj\Debug\Files.exe
+D:\Ераносян СРПО-17-2\Files\Files\obj\Debug\Files.pdb
+C:\Users\George\Desktop\Files\Files\bin\Debug\Files.exe.config
+C:\Users\George\Desktop\Files\Files\bin\Debug\Files.exe
+C:\Users\George\Desktop\Files\Files\bin\Debug\Files.pdb
+C:\Users\George\Desktop\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Files\Files\obj\Debug\Files.exe
+C:\Users\George\Desktop\Files\Files\obj\Debug\Files.pdb

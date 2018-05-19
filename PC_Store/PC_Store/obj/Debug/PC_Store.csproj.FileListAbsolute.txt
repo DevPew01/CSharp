@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\PC_Store\PC_Store\bin\Debug\PC_Store.exe
+C:\Users\George\source\repos\PC_Store\PC_Store\bin\Debug\PC_Store.pdb
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.Form1.resources
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.Properties.Resources.resources
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.csproj.GenerateResource.cache
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.exe
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.pdb
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.Form2.resources
+C:\Users\George\source\repos\PC_Store\PC_Store\obj\Debug\PC_Store.csprojResolveAssemblyReference.cache

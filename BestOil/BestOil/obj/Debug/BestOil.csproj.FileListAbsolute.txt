@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\BestOil\BestOil\bin\Debug\BestOil.exe
+C:\Users\George\source\repos\BestOil\BestOil\bin\Debug\BestOil.pdb
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.BestOilForm.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.exe
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.pdb
+C:\Users\George\source\repos\BestOil\BestOil\bin\Debug\uk-UA\BestOil.resources.dll
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.BestOilForm.uk-UA.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\uk-UA\BestOil.resources.dll
+C:\Users\George\source\repos\BestOil\BestOil\bin\Debug\sr-Cyrl-BA\BestOil.resources.dll
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\BestOil.BestOilForm.sr-Cyrl-BA.resources
+C:\Users\George\source\repos\BestOil\BestOil\obj\Debug\sr-Cyrl-BA\BestOil.resources.dll
